@@ -1,13 +1,13 @@
 {
     "name": "com.cinderellakuru.halowarsforge",
-    "version": "1.2.3",
+    "version": "1.0.0",
     "displayName": "Halo Wars - Forge",
     "description": "",
     "unity": "2022.3",
     "unityRelease": "25f1",
     "documentationUrl": "https://github.com/CinderellaKuru/com.cinderellakuru.halowarsforge/wiki",
-    "changelogUrl": "https://example.com/changelog.html",
-    "licensesUrl": "https://example.com/licensing.html",
+    "changelogUrl": "https://github.com/CinderellaKuru/com.cinderellakuru.halowarsforge/blob/master/README.MD",
+    "licensesUrl": "https://github.com/CinderellaKuru/com.cinderellakuru.halowarsforge/blob/master/LICENSE.MD",
    "keywords": [
       "Halo Wars",
       "Scenario",
