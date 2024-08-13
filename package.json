@@ -1,8 +1,8 @@
 {
     "name": "com.cinderellakuru.halowarsforge",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "displayName": "Halo Wars - Forge",
-    "description": "",
+    "description": "The 'Halo Wars - Forge' package is a powerful Unity in-editor tool designed for modders to easily visualize and modify scenario files within Unity. With an intuitive interface and seamless integration, this package enhances your workflow by providing a dedicated Scenario Editor under the Tools > Scenario Editor tab.",
     "unity": "2022.3",
     "unityRelease": "25f1",
     "documentationUrl": "https://github.com/CinderellaKuru/com.cinderellakuru.halowarsforge/wiki",
