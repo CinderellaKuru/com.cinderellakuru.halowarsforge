@@ -1,0 +1,24 @@
+{
+    "name": "com.cinderellakuru.halowarsforge",
+    "version": "1.2.3",
+    "displayName": "Halo Wars - Forge",
+    "description": "",
+    "unity": "2022.3",
+    "unityRelease": "25f1",
+    "documentationUrl": "https://github.com/CinderellaKuru/com.cinderellakuru.halowarsforge/wiki",
+    "changelogUrl": "https://example.com/changelog.html",
+    "licensesUrl": "https://example.com/licensing.html",
+   "keywords": [
+      "Halo Wars",
+      "Scenario",
+      "Editor",
+      "Tool",
+      "Forge"
+    ],
+    "author": {
+      "name": "Cinderellakuru",
+      "email": "cinderellakuru@gmail.com",
+      "url": "https://github.com/CinderellaKuru"
+    }
+  }
+  
