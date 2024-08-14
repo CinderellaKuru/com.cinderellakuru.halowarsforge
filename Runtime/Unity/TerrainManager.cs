@@ -4,7 +4,7 @@ namespace Assets.Scripts.Unity
 {
     public class TerrainManager : MonoBehaviour
     {
-        private static readonly string[] ValidScenes = {
+        private static readonly string[] validScenes = {
             "Repository", "Baron_1_swe", "BeaconHill_2", "Beasleys_Plateau", "Blood_Gulch",
             "Chasms", "Crevice", "Exile", "Fort_Deen", "Frozen_Valley", "Glacial_Ravine_3",
             "Labyrinth", "Pirth_Outskirts", "RedRiver_1", "Release", "Terminal_Moraine",
@@ -25,7 +25,7 @@ namespace Assets.Scripts.Unity
 
         private static bool IsValidScene(string sceneName)
         {
-            return System.Array.Exists(ValidScenes, validScene => validScene.Equals(sceneName, System.StringComparison.OrdinalIgnoreCase));
+            return System.Array.Exists(validScenes, validScene => validScene.Equals(sceneName, System.StringComparison.OrdinalIgnoreCase));
         }
 
         private static void LoadSceneObject(string sceneName)
